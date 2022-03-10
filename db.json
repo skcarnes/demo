@@ -1,8 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "teams": [
+    { 
+      "id": 1, 
+      "name": "Deep Flux",
+      "teamMembers": [
+        {
+          "id": 1,
+          "name": "",
+          "position"
+        }
+      ]
+    },
+    { "id": 2, "name": "Dark Truth" },
+    { "id": 3, "name": "Star Haze" },
+    { "id": 4, "name": "Heavy Lifting"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
