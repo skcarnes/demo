@@ -3,7 +3,7 @@
     { 
       "id": 1, 
       "name": "Deep Flux",
-      "image": "https://untappd.akamaized.net/site/beer_logos/beer-4015964_ce5c7_sm.jpeg"
+      "image": "https://untappd.akamaized.net/site/beer_logos/beer-4015964_ce5c7_sm.jpeg",
       "teamMembers": [
         {
           "id": 1,
@@ -40,13 +40,13 @@
     { 
       "id": 2, 
       "name": "Dark Truth",
-      "image": "https://untappd.akamaized.net/site/beer_logos/beer-10589_a2513_sm.jpeg"
+      "image": "https://untappd.akamaized.net/site/beer_logos/beer-10589_a2513_sm.jpeg",
       "teamMembers": []
     },
     { 
       "id": 3, 
       "name": "Star Haze"
-      "image": "https://untappd.akamaized.net/site/beer_logos/beer-3739580_beefd_sm.jpeg"
+      "image": "https://untappd.akamaized.net/site/beer_logos/beer-3739580_beefd_sm.jpeg",
       "teamMembers": []
     },
     { 
