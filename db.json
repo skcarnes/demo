@@ -35,25 +35,42 @@
           "name": "Jamie Masculine",
           "position": "Software Engineer"
         }
+      ],
+      "projects": [
+        {
+          "id": 1,
+          "name": "MyVU iOS App"
+        },
+        {
+          "id": 2,
+          "name": "Fast Fridays"
+        },
+        {
+          "id": 3,
+          "name": "MyVU PWA"
+        }
       ]
     },
     { 
       "id": 2, 
       "name": "Dark Truth",
       "image": "https://untappd.akamaized.net/site/beer_logos/beer-10589_a2513_sm.jpeg",
-      "teamMembers": []
+      "teamMembers": [],
+      "projects": []
     },
     { 
       "id": 3, 
       "name": "Star Haze",
       "image": "https://untappd.akamaized.net/site/beer_logos/beer-3739580_beefd_sm.jpeg",
-      "teamMembers": []
+      "teamMembers": [],
+      "projects": []
     },
     { 
       "id": 4, 
       "name": "Heavy Lifting",
       "image": "",
-      "teamMembers": []
+      "teamMembers": [],
+      "projects": []
     }
   ]
 }
