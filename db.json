@@ -3,23 +3,57 @@
     { 
       "id": 1, 
       "name": "Deep Flux",
+      "image": "https://untappd.akamaized.net/site/beer_logos/beer-4015964_ce5c7_sm.jpeg"
       "teamMembers": [
         {
           "id": 1,
-          "name": "",
-          "position"
+          "name": "Bud Wheeler",
+          "position": "GEM"
+        },
+        {
+          "id": 2,
+          "name": "Georgie Batson",
+          "position": "Product Owner"
+        },
+        {
+          "id": 3,
+          "name": "Michelle Iven",
+          "position": "Quality Assurance"
+        },
+        {
+          "id": 4,
+          "name": "Michael Crawford",
+          "position": "SEM"
+        },
+        {
+          "id": 5,
+          "name": "Skylar Carnes",
+          "position": "Software Engineer"
+        },
+        {
+          "id": 6,
+          "name": "Jamie Masculine",
+          "position": "Software Engineer"
         }
       ]
     },
-    { "id": 2, "name": "Dark Truth" },
-    { "id": 3, "name": "Star Haze" },
-    { "id": 4, "name": "Heavy Lifting"}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { 
+      "id": 2, 
+      "name": "Dark Truth",
+      "image": "https://untappd.akamaized.net/site/beer_logos/beer-10589_a2513_sm.jpeg"
+      "teamMembers": []
+    },
+    { 
+      "id": 3, 
+      "name": "Star Haze"
+      "image": "https://untappd.akamaized.net/site/beer_logos/beer-3739580_beefd_sm.jpeg"
+      "teamMembers": []
+    },
+    { 
+      "id": 4, 
+      "name": "Heavy Lifting".
+      "image": "",
+      "teamMembers": []
+    }
+  ]
 }
